@@ -1,3 +1,4 @@
+var prompt = require('prompt-sync')();
 
 var password = prompt("Enter your password:");
 var confirmPassword = prompt("Confirm your password:");
